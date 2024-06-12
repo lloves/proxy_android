@@ -1,0 +1,3 @@
+2024/06/12 07:52:50 [1;34m[I] [service.go:327] [827142487db91bda] login to server success, get run id [827142487db91bda], server udp port [0][0m
+2024/06/12 07:52:50 [1;34m[I] [proxy_manager.go:144] [827142487db91bda] proxy added: [adb_xxxiqwieiqxx][0m
+2024/06/12 07:52:50 [1;34m[I] [control.go:181] [827142487db91bda] [adb_xxxiqwieiqxx] start proxy success[0m
